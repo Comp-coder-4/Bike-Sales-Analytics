@@ -22,10 +22,13 @@ Tools used: SQL, Excel
 2. Insight: Looking at the Month-on-Month VIP performance, sales are highest during summer months. Recommendation: To ensure sales are kept this way, I recommend offering premium service including exclusive access to new bikes and fast delivery option
 
 ## File Structure
-Exploratory Data Analysis SQL files are numbered from 01 to 05 and are labelled with 'EDA'. For example, 01_EDA_Database_Exploration.
-Customer Segmentation Analysis is the file numbered 06.
-Customer Retention Analysis is files numbered 07 and 08.
+All files are numbered.
+- Exploratory Data Analysis SQL files are numbered from 01 to 05 and are labelled with 'EDA'. For example, 01_EDA_Database_Exploration.
+- Customer Segmentation Analysis is the file numbered 06.
+- Customer Retention Analysis is files numbered 07 and 08.
 
-There is also a Customer Report and Product Report in which I created 2 views
+Bonus:
+- There is also a Customer Report and Product Report in sql files numbered 09 and 10
+- Advanced Analytics on the business are the SQL files numbered 11-16. These are not focused on answering the business problem but give valuable insights and analysis on the business
 ___________
 This project is a combination of what I completed as part of Udemy's "SQL Mastery for Data Analytics and Business Intelligence" course and my own ideas. I gave the project a business problem and business context.
