@@ -23,12 +23,11 @@ Tools used: SQL, Excel
 
 ## File Structure
 All files are numbered.
-- Exploratory Data Analysis SQL files are numbered from 01 to 05 and are labelled with 'EDA'. For example, 01_EDA_Database_Exploration.
-- Customer Segmentation Analysis is the file numbered 06.
-- Customer Retention Analysis is files numbered 07 and 08.
+- Exploratory Data Analysis SQL files are numbered from 01 to 06 and are labelled with 'EDA'. For example, 01_EDA_Database_Exploration.
+- Customer Segmentation Analysis is the file numbered 07.
+- Customer Retention Analysis is files numbered 08.
 
 Bonus:
 - There is also a Customer Report and Product Report in sql files numbered 09 and 10
-- Advanced Analytics on the business are the SQL files numbered 11-16. These are not focused on answering the business problem but give valuable insights and analysis on the business
 ___________
-This project is a combination of what I completed as part of Udemy's "SQL Mastery for Data Analytics and Business Intelligence" course and my own ideas. I gave the project a business problem and business context.
+This project is a continuation of what I completed as part of Udemy's "SQL Mastery for Data Analytics and Business Intelligence" course and my own ideas. I gave the project a business problem and business context.
