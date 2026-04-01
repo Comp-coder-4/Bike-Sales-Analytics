@@ -30,4 +30,6 @@ All files are numbered.
 Bonus:
 - There is also a Customer Report and Product Report in sql files numbered 09 and 10
 ___________
-This project is a continuation of what I completed as part of Udemy's "SQL Mastery for Data Analytics and Business Intelligence" course and my own ideas. I gave the project a business problem and business context.
+This project is a continuation of what I completed as part of Data with Baraa's "SQL Mastery for Data Analytics and Business Intelligence" course and my own ideas. I gave the project a business problem and business context.
+
+Data credit: Data Wih Baraa
